@@ -10,6 +10,6 @@ Npm.depends({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.1.1');
-  api.use('npm');
+  api.use('npm', 'server');
   api.addFiles('msgpack.js', 'server');
 });
