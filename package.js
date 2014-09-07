@@ -5,7 +5,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "amqp": "0.2.4"
+  "msgpack": "0.2.4"
 });
 
 Package.onUse(function(api) {
