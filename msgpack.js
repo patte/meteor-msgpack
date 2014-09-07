@@ -1,0 +1,1 @@
+msgpack = Npm.require('msgpack');

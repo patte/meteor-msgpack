@@ -1,0 +1,9 @@
+{
+  "name": "msgpack",
+  "description": "port of msgpack npm package",
+  "homepage": "https://github.com/pgriess/node-msgpack",
+  "author": "Fernando Mumbach (https://github.com/fermuch)",
+  "version": "0.1",
+  "git": "https://github.com/fermuch/meteor-msgpack.git",
+  "packages": { }
+}
